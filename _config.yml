@@ -2,7 +2,7 @@
 baseurl: ""
 url: "https://kinterh.github.io"
 title: Kinter's Library # site's title
-description: "A website with blog posts and pages" # used by search engines
+description: "A website with blog posts" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
